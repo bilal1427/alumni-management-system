@@ -78,7 +78,7 @@ const LandingPage = () => {
 
       {/* Footer */}
       <footer className="footer">
-        <p>&copy; 2024 Alumni Management System. All rights reserved.</p>
+        <p>&copy; 2026 Alumni Management System. All rights reserved.</p>
         <div className="footer-links">
           <a href="#about">About</a>
           <a href="#contact">Contact</a>
